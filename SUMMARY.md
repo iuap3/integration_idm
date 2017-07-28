@@ -1,4 +1,4 @@
-# Table of content
+# 身份认证管理(IdM)
 
 * [产品介绍](articles/idm/1-/jieshao.md)
   * [产品概述](articles/idm/1-/cpgs.md)
